@@ -1,3 +1,4 @@
+// multiplication table for ersa 
 let product = 0;
 let mul = 1;
 
